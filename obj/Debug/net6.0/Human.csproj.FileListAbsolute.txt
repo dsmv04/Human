@@ -1,0 +1,5 @@
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 3\Human\obj\Debug\net6.0\Human.csproj.AssemblyReference.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 3\Human\obj\Debug\net6.0\Human.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 3\Human\obj\Debug\net6.0\Human.AssemblyInfoInputs.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 3\Human\obj\Debug\net6.0\Human.AssemblyInfo.cs
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 3\Human\obj\Debug\net6.0\Human.csproj.CoreCompileInputs.cache
